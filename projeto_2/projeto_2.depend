@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1612395735 source:c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\projeto_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"projeto2Lib.h"
+
+1612377643 c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\projeto_2\projeto2lib.h
+
+1612393073 source:c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\projeto_2\projeto2lib.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"projeto2Lib.h"
+
